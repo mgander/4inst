@@ -1,0 +1,22 @@
+body {
+	background-image: url(high-definition-images-10.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-color: #B3A8A8;
+	-webkit-box-shadow: 150px 150px 150px #625C5C;
+	box-shadow: 150px 150px 150px #625C5C;
+}
+#warpper #top #mainnav table {
+}
+
+@media screen{
+}
+.fontcolor{
+	color:#1C2CE3;
+	}
+	
+.setleft{
+	float=left;
+}
